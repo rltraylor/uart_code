@@ -1,0 +1,23 @@
+#include <avr/pgmspace.h>
+
+const char Dilbert0  [] PROGMEM = "                    ";
+const char Dilbert1  [] PROGMEM = "                    ";
+const char Dilbert2  [] PROGMEM = "    /\/\/\/\/\/\    ";  
+const char Dilbert3  [] PROGMEM = "   <            >   ";
+const char Dilbert4  [] PROGMEM = "    |          |    ";
+const char Dilbert5  [] PROGMEM = "    |          |    ";
+const char Dilbert6  [] PROGMEM = "    |   _  _   |    ";
+const char Dilbert7  [] PROGMEM = "   -|_ / \/ \_ |-   ";
+const char Dilbert8  [] PROGMEM = "  |I|  \_/\_/  |I|  ";
+const char Dilbert9  [] PROGMEM = "   -|   /  \   |-   ";
+const char Dilbert10 [] PROGMEM = "    |   \__/   |    ";
+const char Dilbert11 [] PROGMEM = "    |          |    ";
+const char Dilbert12 [] PROGMEM = "    |          |    ";
+const char Dilbert13 [] PROGMEM = "    |__________|    ";
+const char Dilbert14 [] PROGMEM = "   /___/\__/\___\   ";
+const char Dilbert15 [] PROGMEM = "  /     | \|     \  ";
+const char Dilbert16 [] PROGMEM = "    /\  |\ | _@|#_  ";
+const char Dilbert17 [] PROGMEM = "   / /\ | \| |   |  ";
+const char Dilbert18 [] PROGMEM = "   \/  / \ / |   |  ";
+const char Dilbert19 [] PROGMEM = "    \_/___/   \_/   ";
+const char Dilbert20 [] PROGMEM = "                    ";

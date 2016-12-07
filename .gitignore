@@ -1,0 +1,13 @@
+*.d
+*.elf
+*.hex
+*.map
+*.o
+*.bin
+*.lst
+*.srec
+*_eeprom.bin
+*_eeprom.hex
+*_eeprom.srec
+uart_functions_m48.c
+uart_functions_m48.h
